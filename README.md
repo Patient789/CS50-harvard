@@ -5,8 +5,9 @@ Les étudiants qui obtiennent un score satisfaisant sur 9 ensembles de problème
 
 # Ce que vous apprendrez
 
-*Une compréhension large et solide de l'informatique et de la programmation
-*Comment penser algorithmiquement et résoudre efficacement les problèmes de programmation
+1.  Une compréhension large et solide de l'informatique et de la programmation
+
+2.  Comment penser algorithmiquement et résoudre efficacement les problèmes de programmation
 *Des concepts comme l'abstraction, les algorithmes, les structures de données, l'encapsulation, la gestion des ressources, 
 la sécurité,l'ingénierie logicielle et le développement web.
 *Familiarité dans un certain nombre de langues, y compris C, Python, SQL et JavaScript plus CSS et HTML
